@@ -1,0 +1,50 @@
+>> Next Intern: 
+Intern's name = Intern
+Intern's position = Marketing
+Intern's salary = 20000
+* * * * * *
+>> Next Intern: 
+Intern's name = Intern
+Intern's position = Marketing
+Intern's salary = 20000
+* * * * * *
+>> Next Intern: 
+Intern's name = Intern
+Intern's position = Marketing
+Intern's salary = 20000
+* * * * * *
+>> Next Intern: 
+Intern's name = Intern
+Intern's position = Marketing
+Intern's salary = 20000
+* * * * * *
+>> Next Intern: 
+Intern's name = Intern
+Intern's position = Marketing
+Intern's salary = 20000
+* * * * * *
+>> Next Intern: 
+Intern's name = Intern
+Intern's position = Marketing
+Intern's salary = 20000
+* * * * * *
+>> Next Intern: 
+Intern's name = Intern
+Intern's position = Marketing
+Intern's salary = 20000
+* * * * * *
+>> Next Intern: 
+Intern's name = Intern
+Intern's position = Marketing
+Intern's salary = 20000
+* * * * * *
+>> Next Intern: 
+Intern's name = Intern
+Intern's position = Marketing
+Intern's salary = 20000
+* * * * * *
+>> Next Intern: 
+Intern's name = Intern
+Intern's position = Marketing
+Intern's salary = 20000
+* * * * * *
